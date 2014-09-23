@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="GatewayContext">
+  <DataContextMoniker Name="/GatewayContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6dfd8ef3-4cb2-4317-97d8-7c3f7ddb409c" absoluteBounds="3.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/GatewayContextDataContext/PaymentCustomer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b3417e02-1971-444d-8a48-6b92a7b22d0a" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5df75e6d-d6b9-4350-8725-539e0dbebaca" absoluteBounds="0.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/GatewayContextDataContext/SystemBank" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8cf76556-2282-43dd-9a28-daf49dd7c998" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42327677-eea4-4ed2-bcd1-d752e4e30e29" absoluteBounds="1.375, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/GatewayContextDataContext/CustomerParameter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e800c39-3fdf-4d64-bc52-f5f370ba5bda" absoluteBounds="1.3900000000000001, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

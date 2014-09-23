@@ -1,0 +1,7 @@
+C:\Projects\CentaPaymentGateway\CentaPaymentGateway\obj\Debug\CentaPaymentGateway.csprojResolveAssemblyReference.cache
+C:\Projects\CentaPaymentGateway\CentaPaymentGateway\bin\CentaPaymentGateway.dll
+C:\Projects\CentaPaymentGateway\CentaPaymentGateway\bin\CentaPaymentGateway.pdb
+C:\Projects\CentaPaymentGateway\CentaPaymentGateway\obj\Debug\CentaPaymentGateway.dll
+C:\Projects\CentaPaymentGateway\CentaPaymentGateway\obj\Debug\CentaPaymentGateway.pdb
+C:\Projects\CentaPaymentGateway\CentaPaymentGateway\bin\Newtonsoft.Json.dll
+C:\Projects\CentaPaymentGateway\CentaPaymentGateway\bin\Newtonsoft.Json.xml

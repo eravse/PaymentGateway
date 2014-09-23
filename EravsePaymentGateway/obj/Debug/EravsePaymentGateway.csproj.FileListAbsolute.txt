@@ -1,0 +1,16 @@
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\CentaPaymentGateway\CentaPaymentGateway\bin\CentaPaymentGateway.dll.config
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\CentaPaymentGateway\CentaPaymentGateway\bin\CentaPaymentGateway.dll
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\CentaPaymentGateway\CentaPaymentGateway\bin\CentaPaymentGateway.pdb
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\CentaPaymentGateway\CentaPaymentGateway\bin\Newtonsoft.Json.dll
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\CentaPaymentGateway\CentaPaymentGateway\bin\Newtonsoft.Json.xml
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\CentaPaymentGateway\CentaPaymentGateway\obj\Debug\EravsePaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\CentaPaymentGateway\CentaPaymentGateway\obj\Debug\CentaPaymentGateway.dll
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\CentaPaymentGateway\CentaPaymentGateway\obj\Debug\CentaPaymentGateway.pdb
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\EravsePaymentGateway\EravsePaymentGateway\bin\Newtonsoft.Json.dll
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\EravsePaymentGateway\EravsePaymentGateway\bin\Newtonsoft.Json.xml
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\EravsePaymentGateway\EravsePaymentGateway\obj\Debug\EravsePaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\EravsePaymentGateway\EravsePaymentGateway\bin\EravsePaymentGateway.dll.config
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\EravsePaymentGateway\EravsePaymentGateway\bin\EravsePaymentGateway.dll
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\EravsePaymentGateway\EravsePaymentGateway\bin\EravsePaymentGateway.pdb
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\EravsePaymentGateway\EravsePaymentGateway\obj\Debug\EravsePaymentGateway.dll
+C:\Users\eselcuk\Downloads\CentaPaymentGateway\EravsePaymentGateway\EravsePaymentGateway\obj\Debug\EravsePaymentGateway.pdb

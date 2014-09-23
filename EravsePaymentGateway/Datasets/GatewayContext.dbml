@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Eravse_Payment" Class="GatewayContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Initial Catalog=Eravse_Payment;Persist Security Info=True;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="Eravse_PaymentConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.PaymentCustomer" Member="PaymentCustomers">
+    <Type Name="PaymentCustomer">
+      <Column Name="UserGuid" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="FirmaAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SystemBanks" Member="SystemBanks">
+    <Type Name="SystemBank">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BankName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CustomerParameters" Member="CustomerParameters">
+    <Type Name="CustomerParameter">
+      <Column Name="Id" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="CustomerRowId" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" CanBeNull="false" />
+      <Column Name="Bank" Type="System.Int32" DbType="Int" CanBeNull="false" />
+      <Column Name="Parameters" Type="System.Byte[]" DbType="Binary(5000)" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+</Database>
